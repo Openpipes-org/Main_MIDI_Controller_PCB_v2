@@ -1,3 +1,3 @@
-# Main MIDI Controller PCB v2
+# Main MIDI Controller board (Version 2)
 
 ⚠️ Under construction
