@@ -8,7 +8,7 @@
 Go to the <a href="https://oshwlab.com/bonninr/Main_Controller_V2">OSHWLab project page</a>
 
 <hr>
-Download the last Gerber (.zip) file in the <a href="https://github.com/Openpipes-org/Main_MIDI_Controller_PCB_v2/releases">releases</a> section.
+Download the latest Gerber (.zip) file in the <a href="https://github.com/Openpipes-org/Main_MIDI_Controller_PCB_v2/releases/latest">releases</a> section.
 <hr>
 
 ⚠️ Under construction
