@@ -11,6 +11,7 @@ Go to the <a href="https://oshwlab.com/bonninr/Main_Controller_V2">OSHWLab proje
 Download the latest Gerber (.zip) file in the <a href="https://github.com/Openpipes-org/Main_MIDI_Controller_PCB_v2/releases/latest">releases</a> section.
 <hr>
 
-⚠️ Under construction
-
+- Based on **Arduino-compatible Pro Micro 16 MHz / 5 V** board (not included, to solder)
+-  n. 11 ICD 10-pins male connectors
+-  n. 4 XH-JST 2.54mm 3-pins analog input male connectors 
 
